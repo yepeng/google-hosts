@@ -1,7 +1,7 @@
 #
 # link: https://github.com/txthinking/google-hosts
 #
-# UPDATE: Wed Nov 15 05:31:21 UTC 2017
+# UPDATE: Wed Nov 15 06:03:55 UTC 2017
 #
 127.0.0.1    localhost
 74.125.237.0    0.docs.google.com
@@ -1309,46 +1309,46 @@
 64.233.169.97    www.google-analytics.com
 64.233.169.97    ssl.google-analytics.com
 
-74.125.237.0    r1---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r2---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r3---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r4---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r5---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r6---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r7---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r8---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r9---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r10---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r11---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r12---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r13---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r14---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r15---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r16---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r17---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r18---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r19---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r20---sn-a5m7znee.c.android.clients.google.com
-74.125.237.0    r1---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r2---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r3---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r4---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r5---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r6---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r7---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r8---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r9---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r10---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r11---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r12---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r13---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r14---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r15---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r16---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r17---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r18---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r19---sn-a5m7zne7.c.android.clients.google.com
-74.125.237.0    r20---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.166    r1---sn-a5m7znee.c.android.clients.google.com
+173.194.12.167    r2---sn-a5m7znee.c.android.clients.google.com
+173.194.12.168    r3---sn-a5m7znee.c.android.clients.google.com
+173.194.12.169    r4---sn-a5m7znee.c.android.clients.google.com
+173.194.12.170    r5---sn-a5m7znee.c.android.clients.google.com
+173.194.12.171    r6---sn-a5m7znee.c.android.clients.google.com
+173.194.12.172    r7---sn-a5m7znee.c.android.clients.google.com
+173.194.12.173    r8---sn-a5m7znee.c.android.clients.google.com
+173.194.12.174    r9---sn-a5m7znee.c.android.clients.google.com
+173.194.12.175    r10---sn-a5m7znee.c.android.clients.google.com
+173.194.12.176    r11---sn-a5m7znee.c.android.clients.google.com
+173.194.12.177    r12---sn-a5m7znee.c.android.clients.google.com
+173.194.12.178    r13---sn-a5m7znee.c.android.clients.google.com
+173.194.12.179    r14---sn-a5m7znee.c.android.clients.google.com
+173.194.12.180    r15---sn-a5m7znee.c.android.clients.google.com
+173.194.12.181    r16---sn-a5m7znee.c.android.clients.google.com
+173.194.12.182    r17---sn-a5m7znee.c.android.clients.google.com
+173.194.12.183    r18---sn-a5m7znee.c.android.clients.google.com
+173.194.12.184    r19---sn-a5m7znee.c.android.clients.google.com
+173.194.12.185    r20---sn-a5m7znee.c.android.clients.google.com
+173.194.12.134    r1---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.135    r2---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.136    r3---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.137    r4---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.138    r5---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.139    r6---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.140    r7---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.141    r8---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.142    r9---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.143    r10---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.144    r11---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.145    r12---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.146    r13---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.147    r14---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.148    r15---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.149    r16---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.150    r17---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.151    r18---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.152    r19---sn-a5m7zne7.c.android.clients.google.com
+173.194.12.153    r20---sn-a5m7zne7.c.android.clients.google.com
 74.125.237.0    r1---pek01s02.c.android.clients.google.com
 74.125.237.0    r2---pek01s02.c.android.clients.google.com
 74.125.237.0    r3---pek01s02.c.android.clients.google.com
